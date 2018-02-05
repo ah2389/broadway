@@ -1,5 +1,6 @@
 .header {
-  background-image: url('./resources/images/theflatironbuilding.png');
+  background-image: url('./images/theflatironbuilding.png');
+  color: white;
 }
 
 body{
@@ -8,4 +9,15 @@ body{
 
 .footer{
   text-align: left;
+}
+
+.randombar{
+  background-image: url('./images/theflatironbuilding.png');
+  color: white;
+}
+
+.footer{
+  background-image: url('./images/theflatironbuilding.png');
+  color: white; 
+
 }
