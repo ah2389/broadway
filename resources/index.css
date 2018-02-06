@@ -1,10 +1,21 @@
 .header {
   background-image: url('./images/theflatironbuilding.png');
+}
+
+.header h1{
+  font-size: 70px;
+  font-weight: bold;
   color: white;
+}
+
+.btn{
+  color: white;
+  font-size: 18px;
 }
 
 body{
   text-align: center;
+  font-family: helvetica;
 }
 
 .footer{
@@ -17,7 +28,35 @@ body{
 }
 
 .footer{
-  background-image: url('./images/theflatironbuilding.png');
+  background-color: dimgray;
   color: white;
 
+}
+
+.prcess{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.identify{
+  font-size: 23px;
+
+}
+
+.info{
+  font-size: 14px;
+}
+
+.randombar{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.copyright{
+  font-size: 11px;
+}
+
+span {
+  font-size: 11px;
 }
